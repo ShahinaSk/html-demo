@@ -1,0 +1,10 @@
+body{
+	background-color: #e3e3e3;
+}
+blockquote{
+	border: 1px solid white;
+}
+#ul1 ul {
+	margin: 0;
+	vertical-align: middle;
+}
